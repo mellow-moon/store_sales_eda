@@ -6,7 +6,7 @@
 
 Данные можно найти по ссылке: https://www.kaggle.com/competitions/store-sales-time-series-forecasting.
 
-**Используемые файлы**
+### Используемые файлы
 ```
 - train_df.csv - объем продаж
 - stores.csv - информация о магазинах
@@ -14,7 +14,8 @@
 - holiday_events.csv - праздники и прочие события
 ```
 
-**Описание данных**
+###Описание данных
+
 ### train_df.csv
 ```
 - ID - an Id that represents a (Shop, Item) tuple within the test set
