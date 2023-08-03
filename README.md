@@ -17,9 +17,12 @@
 ### Описание данных
 
 ### train_df.csv
+
 ```
-- ID - an Id that represents a (Shop, Item) tuple within the test set
-- shop_id - unique identifier of a shop
+- store_nbr - номер магазина, в котором был продан продукт
+- family - тип проданного продукта
+- sales - объем продаж определенного продукта в определенном магазине в указанный день
+- onpromotion - число рекламируемых товаров определенного типа в указанный день
 ```
 
 ### stores.csv
