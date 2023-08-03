@@ -8,10 +8,10 @@
 
 **Используемые файлы**
 ```
-- train_df.csv - the training set. Daily historical data from January 2013 to October 2015.
-- stores.csv - the test set. You need to forecast the sales for these shops and products for November 2015.
-- oil.csv
-- holiday_events.csv
+- train_df.csv - объем продаж
+- stores.csv - информация о мамгазинах
+- oil.csv - ежедневные показатели цен на нефть
+- holiday_events.csv - праздники и прочие события
 ```
 
 **Описание данных**
