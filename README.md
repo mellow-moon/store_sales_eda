@@ -26,21 +26,30 @@
 ```
 
 ### stores.csv
+
 ```
-- ID - an Id that represents a (Shop, Item) tuple within the test set
-- shop_id - unique identifier of a shop
+- city - город
+- state - штат
+- type - тип магазина
+- cluster - кластер (схожие магазины образуют общий кластер)
 ```
 
 ### oil.csv
+
 ```
-- ID - an Id that represents a (Shop, Item) tuple within the test set
-- shop_id - unique identifier of a shop
+- date - дата
+- dcoilwtico - цена на нефть
 ```
 
 ### holiday_events.csv
+
 ```
-- ID - an Id that represents a (Shop, Item) tuple within the test set
-- shop_id - unique identifier of a shop
+- date - дата
+- type - тип (праздник Holiday либо событие Event)
+- locale - 
+- locale_name - место действия
+- description - описание праздника или события
+- transferred - был ли праздник перенесен
 ```
 
 ### Исследуемые вопросы
@@ -67,3 +76,5 @@
 ![Ipynb](https://img.shields.io/badge/Python-numpy-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-plotly-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-scipy-blue.svg?style=flat&logo=python&logoColor=white)
+
+# Выводы
