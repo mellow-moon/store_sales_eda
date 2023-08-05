@@ -70,7 +70,7 @@
 ![Ipynb](https://img.shields.io/badge/Python-plotly-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-scipy-blue.svg?style=flat&logo=python&logoColor=white)
 
-# Выводы
+# Вывод
 
 1. Доли продаж распределены не равномерно. Наибольшую долю занимают Товары первой необходимости (32%), Напитки (20%) и Сельскохозяйственная продукция (11%). Наименьшую - Книги (<1%), Уход за детьми (<1%), Бытовая техника (<1%).
 
